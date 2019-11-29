@@ -6,9 +6,12 @@ Version: 1A
 
 ### Changelog: 
 Mission conditions repaired
+
 Added intro text
 Time set to 1986
+
 Changed Dynai Zone Settings 
+
 Added quick overview in description
 
 # NOT APPROVED
