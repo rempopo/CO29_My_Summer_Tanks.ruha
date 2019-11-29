@@ -14,6 +14,18 @@ respawnDelay = 9999999;
 
 class Params
 {   
+	class overview_line0
+	{
+		title = "Обзор:";
+		values[] = {0};
+		texts[] = {""};
+	};
+	class overview_line1
+	{
+		title = "Штурм советских позиций взводом пехоты британской армии при поддержке танка. Необходимо наличие ГСО. GSO-assisted enemy";
+		values[] = {0};
+		texts[] = {""};
+	};
 	class par_daytime
 	{
 	    title = "Время суток";

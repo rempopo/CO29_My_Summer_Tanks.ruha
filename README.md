@@ -1,10 +1,15 @@
-CO29_My_Summer_Tanks
+CO29_My_Summer_Tanks.ruha
 Platoon-sized mission with tank support to destroy enemy defence positions
 
 
-1A
+Version: 1A
 
 ### Changelog: 
+Mission conditions repaired
+Added intro text
+Time set to 1986
+Changed Dynai Zone Settings 
+Added quick overview in description
 
 # NOT APPROVED
 | Reviewer | Result |
