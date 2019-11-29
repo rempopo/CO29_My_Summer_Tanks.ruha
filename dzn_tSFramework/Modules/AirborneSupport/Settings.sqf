@@ -12,7 +12,7 @@ tSF_AirborneSupport_initTimeout		= 5;
  *		"Any"			- any player
  *
  */
-tSF_AirborneSupport_AuthorizedUsers	= ["Admin","Platoon Sergeant","Зам. командира взвода","Support Officer"];
+tSF_AirborneSupport_AuthorizedUsers	= ["Admin","Platoon Sergeant","Зам. командира взвода","Support Officer","1'0 Platoon Leader","1'1 Section Leader","1'2 Section Leader", "1'3 Section Leader"];
 
 /*
  *	Allow authorized units to teleport from tSF_AirborneSupport_ReturnPoint to their Squad
@@ -44,4 +44,4 @@ tSF_AirborneSupport_FuelLimit		= 0.15;
  */
  
 tSF_AirborneSupport_PilotClass 		= "B_helipilot_F";
-tSF_AirborneSupport_PilotKit		= "";
+tSF_AirborneSupport_PilotKit		= "kit_uk_crew";

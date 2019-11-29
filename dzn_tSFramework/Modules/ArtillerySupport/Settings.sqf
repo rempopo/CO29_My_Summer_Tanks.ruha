@@ -18,10 +18,10 @@ tSF_ArtillerySupport_AuthorizedUsers = [
 	,"Зам. командира взвода"
 	,"FO"
 	,"КАО"
-	,"1'1 Section Commander"
-	,"1'2 Section Commander"
-	,"1'3 Section Commander"
-	,"1'0 Platoon Commander"
+	,"1'1 Section Leader"
+	,"1'2 Section Leader"
+	,"1'3 Section Leader"
+	,"1'0 Platoon Leader"
 ];
 
 
@@ -38,7 +38,7 @@ tSF_ArtillerySupport_AdjustFireExpirationTimeout	= 5*30;	// Expirtation Timeout 
 tSF_ArtillerySupport_FiremissionsProperties = [
 	["HE", 6, ["8Rnd_82mm_Mo_shells", "rhs_mag_3vo18_10"]]
 	, ["SMK", 9, ["8Rnd_82mm_Mo_Smoke_white", "rhs_mag_d832du_10"]]
-	, ["ILLUM", 9, ["8Rnd_82mm_Mo_Flare_white", "rhs_mag_3vs25m_10"]]
+	, ["ILLUM", 30, ["8Rnd_82mm_Mo_Flare_white", "rhs_mag_3vs25m_10"]]
 ];
 
 /*

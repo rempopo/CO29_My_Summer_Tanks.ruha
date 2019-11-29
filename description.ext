@@ -26,6 +26,18 @@ class Params
 		values[] = {0};
 		texts[] = {""};
 	};
+	class overview_line2
+	{
+		title = "Описание ролей:";
+		values[] = {0};
+		texts[] = {""};
+	};
+	class overview_line3
+	{
+		title = "MAW No.1 - гранатомётчик. Maw No.2 - помощник гранатомётчика. GPMG No.1 - пулемётчик. GPMG No.2 - помощник пулемётчика";
+		values[] = {0};
+		texts[] = {""};
+	};
 	class par_daytime
 	{
 	    title = "Время суток";
