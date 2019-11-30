@@ -27,7 +27,7 @@ tSF_FARP_Rearm_ResoucesLevel	= -1;
 // Assets
 tSF_FARP_Assets_BasicList			= ["ACE_Wheel", "ACE_Track", "ACE_Banana"];
 tSF_FARP_Assets_AllowPrimayMagazine	= true;
-tSF_FARP_Assets_AllowNVG			= true;
+tSF_FARP_Assets_AllowNVG			= false;
 tSF_FARP_Assets_AllowRenewKit		= true;
 tSF_FARP_Assets_RenewKitTime		= 10;
 
