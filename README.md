@@ -12,7 +12,8 @@ Changed Dynai Zone Settings
 Added quick overview in description
 
 # NOT APPROVED
-| Reviewer | Result |
+| Reviewer     | Result        |
 | ------------ | ------------- |
-| 10Dozen | APPROVED |
-| - | - |
+| 10Dozen      | APPROVED      |
+| lim          | APPROVED      |
+
