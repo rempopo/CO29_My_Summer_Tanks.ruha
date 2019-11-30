@@ -71,12 +71,12 @@ kit_uk_sl = [
 	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_L109A1_HE",1],["CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M",1],["hlc_20Rnd_762x51_T_fal",2]]]
 ];
 kit_uk_ftl = [
-	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_DPM","CUP_V_B_ALICE","usm_pack_st138_prc77","CUP_H_BAF_DPM_Mk6_EMPTY",""],
+	["<EQUIPEMENT >>  ","CUP_U_B_BDUv2_DPM","CUP_V_B_ALICE","CUP_B_AlicePack_OD","CUP_H_BAF_DPM_Mk6_EMPTY",""],
 	["<PRIMARY WEAPON >>  ","hlc_rifle_L1A1SLR","hlc_20Rnd_762x51_B_fal",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
-	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",4],["CUP_HandGrenade_L109A1_HE",1],["SmokeShellBlue",1],["SmokeShell",1]]],
 	["<BACKPACK ITEMS >> ",[["SmokeShellGreen",2],["SmokeShellRed",2],["SmokeShellYellow",2],["CUP_HandGrenade_L109A1_HE",1],["hlc_20Rnd_762x51_T_fal",2]]]
 ];
