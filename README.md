@@ -11,7 +11,7 @@ Time set to 1986
 Changed Dynai Zone Settings 
 Added quick overview in description
 
-# NOT APPROVED
+# APPROVED
 | Reviewer     | Result        |
 | ------------ | ------------- |
 | 10Dozen      | APPROVED      |
